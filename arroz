@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cultivo de Arroz</title>
+    <style>
+        p{
+            font-size: large;
+            text-align: justify;
+            font-family: Arial, Helvetica, sans-serif;
+            padding-left: 3%;
+            padding-right: 3%;
+        }
+        li{
+            font-size: large;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        h1{
+            margin-right: 30%;
+            margin-left: 30%;
+            color:#459900;
+            text-align: center;
+            text-decoration: underline;
+            font-family: 'Courier New', Courier, monospace;
+        }
+        h2{
+            color: #459900;
+            text-align: center;
+            font-family: 'Courier New', Courier, monospace;
+            text-decoration: underline;
+        }
+        .img_mandioca{
+            width: 40%;
+            border-radius: 30px;
+            display: block;
+            margin: auto;
+        }
+        .logo{
+            display: block;
+            margin: auto;
+            width: 20%;
+        }
+        .menu{
+            font-family: 'Courier New', Courier, monospace;
+            text-align: center;
+            background-color: #459900;
+            display: inline;
+            padding-top: 1.5%;
+            padding-bottom: 1.5%;
+            padding-left: 1%;
+            padding-right: 1%;
+            border-radius: 30px;
+        }
+        .link-menu{
+            text-decoration: none;
+            color: white;
+            padding: 9%;
+        }
+        .img_mandioca
+        {
+            border-color: #459900;
+        }
+    </style>
+</head>
+<body>
+    <img class="logo" src="logo agrocultura.png">
+    <br>
+    <br>
+    <div class="menu">
+        <a href="index.html" class="link-menu">Home</a>
+        <a class="link-menu">Conteúdos</a>
+        <a class="link-menu">Sobre</a>
+        <a class="link-menu">Contato</a>
+    </div>
+    <br>
+    <br>
+    <h1>CULTIVO DE ARROZ</h1>
+    <img class="img_mandioca" src="imagemarroz.jpg">
+    <p>
+        Originária do sudeste da Ásia, o Arroz é um tipo de grão e uma excelente fonte de energia, devido à alta concentração de carboidratos, principalmente amido, fornecendo também proteínas, vitaminas e minerais, sendo um dos grãos mais consumidos no mundo inteiro.
+    </p>
+    <h2>
+        Plantio
+    </h2>
+    <p>
+        Para plantar o arroz o solo pode ser seco ou inundado. Esse método de plantio de arroz permite que o arroz atinja a maturidade de sete a dez dias antes do transplante, o que é importante em áreas com baixas temperaturas.    
+    </p>
+    <p>
+        Diante da diversidade de climas em todo o Brasil, porém, a época ideal para o plantio do arroz varia de uma localidade para outra. Ou mesmo a cada safra, uma vez que em alguns anos o clima está mais quente, enquanto que em outros as chuvas não cessam. 
+        Por isso, não existe uma regra com as datas de plantio que seja válida para todo o país. Sendo assim, a melhor maneira para não errar na hora do plantio é consultar o zoneamento agroclimático, que mostra aos produtores a melhor época para plantar, de acordo com cada região.
+    </p>
+    <p>
+        O processo pode ser feito por meio de semeadura direta ou transplante de mudas. As sementes devem ser plantadas em fileiras, com espaçamento entre plantas de cerca de 20 centímetros a 40 centímetros. O plantio de arroz é uma prática que exige muita água, por isso é necessário manter o solo sempre úmido, mas sem encharcar. É mais indicado o uso de irrigação por inundação, que consiste em manter a lâmina de água entre 2 centímetros e 5 centímetros durante todo o período de desenvolvimento da cultura.
+    </p>
+    <h2>Importância do Arroz</h2>
+    <p>
+        O Arroz exerce um papel importante na geração de emprego e renda, além de ser muito presente no dia a dia e no comércio, como por exemplo:
+    </p>
+    <ul>
+        <li>Produção de alimentos</li>
+        <li>Produção de papel </li>
+        <li>Produção de bebidas</li>
+        <li>Indústria de cosméticos</li>
+        <li>Indústria farmacêutica</li>
+    </ul>
+</body>
+</html>
