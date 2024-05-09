@@ -12,18 +12,49 @@
             padding-left: 3%;
             padding-right: 3%;
         }
-        p.Mandioca{
+       p.Mandioca{
             border-style: solid;
             border-color: #459900;
+            padding: 50px 50px; 
        }
        p.Arroz{
             border-style: solid;
             border-color: #459900;
+            padding: 50px 50px; 
        } 
         p.cenoura{
             border-style: solid;
             border-color:#459900;
+            padding: 50px 50px;
        } 
+       p.batata{
+            border-style: solid;
+            border-color:#459900;
+            padding: 50px 50px;
+       } 
+       p.ervilha{
+            border-style: solid;
+            border-color:#459900;
+            padding: 50px 50px;
+       } 
+       p.tomate{
+            border-style: solid;
+            border-color:#459900;
+            padding: 50px 50px;
+       } 
+       p.trigo{
+            border-style: solid;
+            border-color:#459900;
+            padding: 50px 50px;
+       } 
+       h1{
+            margin-right: 30%;
+            margin-left: 30%;
+            color:#459900;
+            text-align: center;
+            text-decoration: underline;
+            font-family: 'Courier New', Courier, monospace;
+       }
         .logo{
             display: block;
             margin: auto;
@@ -62,15 +93,15 @@
     <br>
     <h1>Conteúdos</h1>
     <p>
-        Os primeiros registros da hortaliça apontam os arredores do Afeganistão, na Ásia Central, como centro de origem da cenoura. Há dois mil anos, as raízes das variedades orientais eram roxas, vermelhas ou amarelas.    </p>
-        <h2>The border-color Property</h2>
-        <p>This property specifies the color of the four borders:</p>
-        
         <p class="Mandioca">Mandioca</p>
         <p class="Arroz">Arroz</p>
-        <p class="cenoura">cenoura</p>
-        
-        <p><b>Note:</b> The "border-color" property does not work if it is used alone. Use the "border-style" property to set the borders first.
+        <p class="cenoura">Cenoura</p>
+        <p class="batata">Batata</p>
+        <p class="ervilha">Ervilha</p>
+        <p class="tomate">Tomate</p>
+        <p class="trigo">Trigo</p>
+
+        <p><b>Contato:</b>agrocultura@gmail.com 
         </p>        
 </body>
 </html>
