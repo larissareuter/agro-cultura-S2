@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cultivo de Cenoura</title>
+    <style>
+        p{
+            font-size: large;
+            text-align: justify;
+            font-family: Arial, Helvetica, sans-serif;
+            padding-left: 3%;
+            padding-right: 3%;
+        }
+        li{
+            font-size: large;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        h1{
+            margin-right: 30%;
+            margin-left: 30%;
+            color:#459900;
+            text-align: center;
+            text-decoration: underline;
+            font-family: 'Courier New', Courier, monospace;
+        }
+        h2{
+            color: #459900;
+            text-align: center;
+            font-family: 'Courier New', Courier, monospace;
+            text-decoration: underline;
+        }
+        .img_mandioca{
+            width: 40%;
+            border-radius: 30px;
+            display: block;
+            margin: auto;
+        }
+        .logo{
+            display: block;
+            margin: auto;
+            width: 20%;
+        }
+        .menu{
+            font-family: 'Courier New', Courier, monospace;
+            text-align: center;
+            background-color: #459900;
+            display: inline;
+            padding-top: 1.5%;
+            padding-bottom: 1.5%;
+            padding-left: 1%;
+            padding-right: 1%;
+            border-radius: 30px;
+        }
+        .link-menu{
+            text-decoration: none;
+            color: white;
+            padding: 9%;
+        }
+        .img_mandioca
+        {
+            border-color: #459900;
+        }
+    </style>
+</head>
+<body>
+    <img class="logo" src="logo agrocultura.png">
+    <br>
+    <br>
+    <div class="menu">
+        <a href="index.html" class="link-menu">Home</a>
+        <a class="link-menu">Conteúdos</a>
+        <a class="link-menu">Sobre</a>
+        <a class="link-menu">Contato</a>
+    </div>
+    <br>
+    <br>
+    <h1>CULTIVO DE CENOURA</h1>
+    <img class="img_mandioca" src="cenura].jpg">
+    <p>
+        Os primeiros registros da hortaliça apontam os arredores do Afeganistão, na Ásia Central, como centro de origem da cenoura. Há dois mil anos, as raízes das variedades orientais eram roxas, vermelhas ou amarelas.    </p>
+    <h2>
+        Plantio
+    </h2>
+    <p>
+        A escolha da terra certa é essencial para o crescimento saudável da sua plantação de cenouras. Por isso, procure um solo bem soltinho. Sempre que for possível, adicione um pouco de húmus de minhoca e esterco. Assim, você garante mais nutrientes para a raiz da sua hortaliça.    </p>
+    <p>
+        A cenoura pode ser cultivada o ano todo em todas as regiões brasileiras, exceto na região Norte, onde a cenoura é cultivada somente no período de inverno, quando as condições ambientais são mais favoráveis à cultura. Para isso é necessário o produtor escolher as cultivares adequadas para cada estação.A semeadura de cultivares de inverno é recomenda para os meses de março a julho em Minas Gerais, São Paulo, Goiás e Paraná.
+    </p>
+    <p>
+        Para plantar cenoura em sua horta orgânica, faça canteiros de 1,10 m de largura e 15 cm de altura. Depois, prepare os sulcos de 1 a 2 cm de profundidade, com distância de 20 cm de cada. Coloque as sementes de cenoura nos sulcos de maneira manual ou, se for em grande área, você pode utilizar uma plantadeira.
+   </p>
+    <h2>Importância do Cenoura</h2>
+    <p>
+        A cenoura (Daucus carota L.) apresenta ampla versatilidade culinária e adaptabilidade a diferentes condições de cultivo, tornando-se uma das hortaliças mais cultivadas no mundo. Sua importância vai além do fornecimento de carboidratos e sais minerais, pois é uma importante fonte de vitaminas, principalmente vitamina A.    </p>
+    <ul>
+        <li>Produção de alimentos</li>
+        <li>Produção de bebidas</li>
+        <li>Indústria de cosméticos</li>
+        <li>Indústria farmacêutica</li>
+    </ul>
+</body>
+</html>
