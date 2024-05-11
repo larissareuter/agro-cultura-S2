@@ -15,67 +15,43 @@
        p.Mandioca{
             border-style: solid;
             border-color: #459900;
-            padding: 50px 50px; 
-       }
-       p.Arroz{
-            border-style: solid;
-            border-color: #459900;
-            padding: 50px 50px; 
-       } 
-        p.cenoura{
-            border-style: solid;
-            border-color:#459900;
-            padding: 50px 50px;
-       } 
-       p.batata{
-            border-style: solid;
-            border-color:#459900;
-            padding: 50px 50px;
-       } 
-       p.ervilha{
-            border-style: solid;
-            border-color:#459900;
-            padding: 50px 50px;
-       } 
-       p.tomate{
-            border-style: solid;
-            border-color:#459900;
-            padding: 50px 50px;
-       } 
-       p.trigo{
-            border-style: solid;
-            border-color:#459900;
-            padding: 50px 50px;
+            padding: 30px 30px; 
+            font-size: 40px;
+            text-decoration: underline;
+            color:rgb(4, 58, 8);
+            font-family: 'Courier New', Courier, monospace;
        } 
        h1{
             margin-right: 30%;
             margin-left: 30%;
             color:#459900;
-            text-align: center;
+            text-align: center; 
             text-decoration: underline;
             font-family: 'Courier New', Courier, monospace;
+            font-size: 50px;
        }
         .logo{
             display: block;
             margin: auto;
             width: 20%;
         }
-        .menu{
-            font-family: 'Courier New', Courier, monospace;
-            text-align: center;
-            background-color: #459900;
-            display: inline;
-            padding-top: 1.5%;
-            padding-bottom: 1.5%;
-            padding-left: 1%;
-            padding-right: 1%;
-            border-radius: 30px;
-        }
-        .link-menu{
-            text-decoration: none;
-            color: white;
-            padding: 9%;
-        }
+        .menu {
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 20px;
+        text-align: center;
+        background-color: #459900;
+        padding: 15px;
+        border-radius: 30px;
+        display: flex;
+        flex-flow: row nowrap;
+      }
+
+.link-menu {
+    text-decoration: none;
+    color: white;
+    padding: 8px;
+    flex-grow: 1;
+}
   
     </style>
 </head>
@@ -92,16 +68,14 @@
     <br>
     <br>
     <h1>Conteúdos</h1>
-    <p>
         <p class="Mandioca">Mandioca</p>
-        <p class="Arroz">Arroz</p>
-        <p class="cenoura">Cenoura</p>
-        <p class="batata">Batata</p>
-        <p class="ervilha">Ervilha</p>
-        <p class="tomate">Tomate</p>
-        <p class="trigo">Trigo</p>
+        <p class="Mandioca">Arroz</p>
+        <p class="Mandioca">Cenoura</p>
+        <p class="Mandioca">Batata</p>
+        <p class="Mandioca">Ervilha</p>
+        <p class="Mandioca">Tomate</p>
+        <p class="Mandioca">Trigo</p>
 
-        <p><b>Contato:</b>agrocultura@gmail.com 
-        </p>        
+        <p><b>Contato:</b>agrocultura@gmail.com         
 </body>
 </html>
